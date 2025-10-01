@@ -4,4 +4,4 @@
 
 ---
 
-![Project Banner or Screenshot](\RCOS-Fall25\IMG_4350.jpeg)
+![Screenshot](image.png)
